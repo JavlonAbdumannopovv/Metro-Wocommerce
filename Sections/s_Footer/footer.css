@@ -1,0 +1,97 @@
+#footer{
+  background:#000;
+  color:#fff;
+  margin:0;
+}
+
+.footer_content{
+  padding:70px 70px 0;
+}
+
+.footer_box {
+  margin:0 0 50px;
+}
+
+.footer_box.logo img{
+  width:200px;
+  margin:0 0 30px;
+}
+
+.footer_box.logo div{
+  display:flex !important;
+  align-items:flex-start !important ;
+  width:250px;
+  padding:0 0 20px 0;
+}
+
+.footer_box .icon{
+  margin:0 15px 0 !important;
+  font-size:34px !important;
+  cursor:pointer;
+}
+
+.footer_box p{
+  font-size:20px;
+  color:#c3cbce;
+}
+
+
+.footer_box ul li .line{
+  width:60px;
+  height:3px;
+  background:#fff;
+}
+
+.footer_box ul{
+  font-size:20px;
+}
+
+.footer_box ul li{
+  font-weight:500;
+  color:#c3cbce;
+  margin:0 0 25px;
+  cursor:pointer;
+}
+
+.footer_box ul li.footer_title{
+  font-size:30px !important;
+  color:#fff;
+  cursor:auto;
+}
+
+.footer_down{
+  padding:70px;
+}
+
+.footer_down p{
+  font-size:19px;
+  color:#c3cbce;
+}
+
+.footer_down p span{
+  color:#fff;
+  font-weight:500;
+  font-size:20px;
+}
+
+.footer_down .icons i{
+  font-size:30px;
+  color:#c3cbce;
+  margin:0 10px 0;
+  cursor:pointer;
+  transition:all .3s ease;
+}
+
+.footer_down .icons i:hover{
+  color:#fff;
+}
+
+.footer_down .cards img{
+  cursor:pointer;
+  margin:0 8px 0;
+}
+
+.footer_down .grid div{
+  margin: 0 0 30px;
+  justify-content:center !important;
+}

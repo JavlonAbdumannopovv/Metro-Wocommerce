@@ -1,0 +1,13 @@
+/* Global css **********************/
+@import "./Global/A_primary.css";
+@import "./Global/B_grid.css";
+@import "./Global/C_font.css";
+@import "./Global/D_color.css";
+
+/* Section css*********************/
+@import "../Sections/Header/header.css";
+@import "../Sections/Hero/hero.css";
+@import "../Sections/Products/products.css";
+@import "../Sections/Registration/registration.css";
+@import "../Sections/Postss/postss.css";
+@import "../Sections/s_Footer/footer.css";
