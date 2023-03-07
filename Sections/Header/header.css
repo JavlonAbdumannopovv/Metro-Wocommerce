@@ -200,6 +200,7 @@ ion-icon.menu-outlinei {
   border-top:2px solid #929292;
   border-bottom:2px solid #929292;
   transition:all .4s ease;
+  z-index:99;
 }
 
 .nav_down.none{
